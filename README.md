@@ -1,7 +1,7 @@
 # Movie Database 🎬
 
 Hi 👋 Jiro Jasmin here.  
-This project is a React app connected to a database API 🎬  
+This project is a React app connected to the Movie Database API 🎬  
 At this moment the functionnalities are implemented but I am still working on the style to to improve the UI. I will deploy it as soon as it is fully production-ready!
 
 ---  
@@ -20,6 +20,9 @@ Live demo coming soon...
 - API data fetching with Axios
 - Search bar
 - Responsive app
+  
+Please note that you need an API key to access data of the Movie Database API.  
+To get your key, please check the [API docs here](https://developers.themoviedb.org)
 
 ## 🙏 Thank you for your visit
   
